@@ -1,0 +1,5 @@
+{
+  "name": "Vercel EC Site",
+  "description": "A simple e-commerce web application built with React, Vite, and Vercel Functions, using Vercel Postgres for the database.",
+  "requestFramePermissions": []
+}
